@@ -16,3 +16,5 @@ Dependencies include:
   - Spoonacular API access via RapidAPI
   - OkHttp 3.12.0
   - Picasso
+
+The source code featured in this repo does not include an API key for obvious reasons, so the app will not function properly without modification.

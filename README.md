@@ -1,4 +1,4 @@
-# CrockPot Repo
+# CROCKPOT APP
 
 CrockPot is a recipe generation app for AndroidOS that allows a user to enter ingredients that they have in their fridge/cupboard, and then churns out appropriate recipes.
 

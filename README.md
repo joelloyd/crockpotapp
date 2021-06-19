@@ -12,6 +12,7 @@ Written primarily in Java, with some XML, HTML and CSS.
 
 Supports Android versions Marshmallow (6.0) and up.
 
-This repo does not include build or gradle files. 
-However, the app was built using gradle and has the following dependencies:
-  - 
+Dependencies include:
+  - Spoonacular API access via RapidAPI
+  - OkHttp 3.12.0
+  - Picasso
